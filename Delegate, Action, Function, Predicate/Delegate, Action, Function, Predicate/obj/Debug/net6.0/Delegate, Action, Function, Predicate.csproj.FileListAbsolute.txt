@@ -1,0 +1,14 @@
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\bin\Debug\net6.0\Delegate, Action, Function, Predicate.exe
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\bin\Debug\net6.0\Delegate, Action, Function, Predicate.deps.json
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\bin\Debug\net6.0\Delegate, Action, Function, Predicate.runtimeconfig.json
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\bin\Debug\net6.0\Delegate, Action, Function, Predicate.dll
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\bin\Debug\net6.0\Delegate, Action, Function, Predicate.pdb
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\Delegate, Action, Function, Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\Delegate, Action, Function, Predicate.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\Delegate, Action, Function, Predicate.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\Delegate, Action, Function, Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\Delegate, Action, Function, Predicate.dll
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\refint\Delegate, Action, Function, Predicate.dll
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\Delegate, Action, Function, Predicate.pdb
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\Delegate, Action, Function, Predicate.genruntimeconfig.cache
+C:\Users\Heydar\Desktop\Delegate, Action, Function, Predicate\Delegate, Action, Function, Predicate\obj\Debug\net6.0\ref\Delegate, Action, Function, Predicate.dll
